@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+librosa
+tensorflow
+pyserial
+numpy
+pytest
